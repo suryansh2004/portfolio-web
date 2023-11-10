@@ -26,7 +26,7 @@ export const links: LinksFunction = () => [
 
 export const meta: MetaFunction = () => {
   const meta = {
-    title: "Jatin - Software Developer",
+    title: "Suryansh - Software Developer",
     description:
       "Software Developer learning and building applications, softwares and interfaces.",
     image: "/assets/img/cover.png",
