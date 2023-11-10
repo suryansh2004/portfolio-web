@@ -29,8 +29,7 @@ export const meta: MetaFunction = () => {
     title: "Suryansh - Software Developer",
     description:
       "Software Developer learning and building applications, softwares and interfaces.",
-    image: "/assets/img/cover.png",
-    url: "https://jatinkumar.dev",
+    image: "/assets/img/cover2.jpeg",
     type: "website",
   };
   return [
@@ -38,7 +37,7 @@ export const meta: MetaFunction = () => {
     {
       tagName: "link",
       rel: "icon",
-      href: "/favicon.ico",
+      href: "/assets/img/cover2.jpeg",
     },
     {
       tagName: "link",
@@ -68,7 +67,6 @@ export const meta: MetaFunction = () => {
     {
       tagName: "meta",
       name: "og:url",
-      content: meta.url,
     },
     {
       tagName: "meta",
@@ -93,7 +91,6 @@ export const meta: MetaFunction = () => {
     {
       tagName: "meta",
       name: "twitter:url",
-      content: meta.url,
     },
     {
       tagName: "meta",
